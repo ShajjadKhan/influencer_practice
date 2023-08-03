@@ -1,0 +1,21 @@
+
+
+nav{display: flex;
+justify-content: space-between;
+
+}
+
+nav>ul{ display: flex;}
+nav li{ list-style: none;
+margin-left: 15px;}
+
+.details{width: 50%;}
+
+.container{
+    display: flex;
+}
+
+.camera{
+    width: 440px;
+    flex-shrink: 0;
+}
